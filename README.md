@@ -1,6 +1,6 @@
 # Decision Diagram Debugger
 
-Visual debugger á la Webmachine for the [HTTP Decision Diagram](https://github.com/for-GET/http-decision-diagram).
+Visual debugger à la Webmachine for the [HTTP Decision Diagram](https://github.com/for-GET/http-decision-diagram).
 
 
 # Status
